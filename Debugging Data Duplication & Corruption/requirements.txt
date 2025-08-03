@@ -1,0 +1,5 @@
+nbformat>=4.2.0
+mplfinance
+pandas
+collections
+matplotlib
