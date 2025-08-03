@@ -2,7 +2,7 @@
 
 Tick-by-tick financial market data to analyze data quality and telemetry for a real-time trading system.
 
-## Project Tasks
+## Project Structure
 
 - **Reverse-Engineering Dataset Columns/**: Reverse-engineer the actual meaning of each column in a dataset of time-series telemetry with misleading column names.
 - **Debugging Data Duplication & Corruption/**: Analyzing and debugging a real-time stream processing system for a high-frequency trading platform where race conditions introduce silent duplicates in the output.
